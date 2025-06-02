@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DiaaEldinHassan/mortage-repayment/static/css/main.a7563932.css",
+    "main.js": "/DiaaEldinHassan/mortage-repayment/static/js/main.11429993.js",
+    "static/media/illustration-empty.svg": "/DiaaEldinHassan/mortage-repayment/static/media/illustration-empty.386ea08ab891d163a8b41f8d62d21413.svg",
+    "index.html": "/DiaaEldinHassan/mortage-repayment/index.html",
+    "main.a7563932.css.map": "/DiaaEldinHassan/mortage-repayment/static/css/main.a7563932.css.map",
+    "main.11429993.js.map": "/DiaaEldinHassan/mortage-repayment/static/js/main.11429993.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7563932.css",
+    "static/js/main.11429993.js"
+  ]
+}
