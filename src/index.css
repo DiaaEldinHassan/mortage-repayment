@@ -1,13 +1,53 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+:root
+{
+  --silver: hsla(197, 6%, 77%, 1);
+--charcoal: hsla(203, 30%, 29%, 1);
+--timberwolf: hsla(26, 19%, 84%, 1);
+--ash-gray: hsla(194, 15%, 72%, 1);
+--straw: hsla(60, 60%, 55%, 1);
+--alice-blue: hsla(199, 81%, 94%, 1);
+--alice-blue-2: hsla(203, 79%, 94%, 1);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: italic;
+   font-weight: 600;
+   background-color: var(--alice-blue);
+   place-items: center;
+   justify-content: center;
 }
+.all
+{
+   place-items: center;
+   justify-content: center;
+}
+.container
+{
+
+  background-color: hsl(0, 0%, 100%);
+  display: flex;
+  flex-direction: row;
+  height: 60svh;
+  width: 70%;
+   place-items: center;
+   justify-content: center;
+   border-radius: 15px;
+}
+/* Left side */
+
+
+/* Right side */
+
+
