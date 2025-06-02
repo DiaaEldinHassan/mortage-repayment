@@ -1,6 +1,5 @@
 {
   "name": "mortage-repayment",
-  "homepage": "https://github.com/DiaaEldinHassan/mortage-repayment/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
